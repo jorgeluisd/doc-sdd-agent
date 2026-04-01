@@ -1,0 +1,12 @@
+# Claude local overrides (no compartir)
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Output: comentar esta línea si querés versionar los docs generados
+# docs/output/*.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+.idea
